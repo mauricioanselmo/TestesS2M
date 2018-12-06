@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="S2M - Artemis sprint 1" verbose="1">
+	<test name="Artemis">
+		<packages>
+			<package name="br.com.ibm.s2m.evolutionManager">
+			</package>
+			<package name="br.com.ibm.s2m.heatMap">
+			</package>
+			<package name="br.com.ibm.s2m.sideFilter">
+			</package>
+			<package name="br.com.s2m.statusactionplan">
+			</package>
+			<package name="br.com.s2m.statuscockpit">
+			</package>
+			<package name="br.com.ibm.s2m.availabilityEnvironmentt">
+			</package>
+			<package name="br.com.ibm.s2m.rankingManager">
+			</package>
+			<package name="br.com.ibm.s2m.risksEHT">
+			</package>
+		</packages>
+	</test>
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [S2M - Artemis sprint 1]">
+  <test thread-count="5" name="Artemis(failed)">
+    <classes>
+      <class name="br.com.s2m.statusactionplan.StatusActionPlan">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="primeiroteste"/>
+        </methods>
+      </class> <!-- br.com.s2m.statusactionplan.StatusActionPlan -->
+    </classes>
+  </test> <!-- Artemis(failed) -->
+</suite> <!-- Failed suite [S2M - Artemis sprint 1] -->

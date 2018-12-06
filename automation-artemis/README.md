@@ -1,0 +1,1 @@
+Novo repositório para automação de testes.
